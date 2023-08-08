@@ -1,6 +1,6 @@
 # L3-Dumping
 
-This repo contains some batch scripts which will help you setup your virtual device created with Android Studio to dump the L3 device_client_id_blob and device_private_key.
+This repo contains some batch scripts which will help you setup your virtual device created with Android Studio to dump the L3 device_client_id_blob and device_private_key. If you don't know how to create a virtual device with Android Studio you can also refer to this guide https://forum.videohelp.com/threads/408031-Dumping-Your-own-L3-CDM-with-Android-Studio
 
 # Prerequisites
 You will need to download Android Studio from https://developer.android.com/studio and complete the installation process.
